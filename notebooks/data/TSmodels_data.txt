@@ -1,0 +1,10 @@
+For Time series models, we can use this publicly avaiblae A&E Attendances and Admissions data sets: 
+
+A&E Attendances & Emergency Admission statistics, NHS and independent sector organisations in England			
+			
+Estimated A&E attendance and emergency admissions timeseries by month			
+			
+August 2010 - present			
+
+https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/
+
